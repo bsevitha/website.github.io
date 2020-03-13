@@ -37,10 +37,7 @@ header{
 	
    
 }
-.remo{
-	
-	position:center;
-}
+
 
 .yash{background-image : linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../images/board.jpg');
 	background-size : cover;
@@ -51,6 +48,15 @@ header{
 
 
 }
+.mom{
+	padding-top:80px;
+	font-size:25px;
+	position : center;
+	padding-left:60px;
+	color:#fff;
+	text-decoration:none;
+	padding-right:60px;
+}
 .me{
 	padding-top:20px;
 	font-size:25px;
@@ -58,28 +64,30 @@ header{
 	padding-left:60px;
 	color:#fff;
 	text-decoration:none;
+	padding-right:60px;
 	
 }
 .mla{
 	
 	font-size:18px;
 	position : center;
-	padding-left:60px;
+	padding-left:10px;
 	color:#FF0000;
+	padding-right:60px;
 
 	
 }
 .ml{
 	font-size:25px;
 	color:#FF4500;
-}
-.remo{
-	padding-top:50px;
 	padding-left:60px;
+	padding-right:60px;
 }
+
 .ga{
 	font-size:30px;
 	padding-left:60px;
+	padding-right:60px;
 	padding-top:50px;
 	position:center;
 	
