@@ -1,0 +1,91 @@
+*{
+	margin : 0px;
+	padding : 0px;
+	box-sizing : border-box;
+}
+body{
+	font-size : 20px;
+	overflow-x : hidden;
+	color: white;
+	font-family: 'Flamenco', cursive
+}
+
+header{
+	background-image : linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../images/blue.jpg');
+	background-size : cover;
+	width: auto;
+	height : auto;
+
+}
+.p-welcome{
+	margin-left:20px;
+	font-size:20px;
+	margin-right:20px;
+	padding-bottom:40px;
+	
+	
+}
+.why{
+	padding-left:40px;
+	padding-top:20px;
+	position:center;
+}
+.welcome{background-image : linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../images/green.jpg');
+	background-size : cover;
+	background-repeat : no;
+	height : 100vh;
+	
+   
+}
+.remo{
+	
+	position:center;
+}
+
+.yash{background-image : linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../images/board.jpg');
+	background-size : cover;
+	backgroung-repeat : no;
+	height : 100vh;
+	
+	
+
+
+}
+.me{
+	padding-top:20px;
+	font-size:25px;
+	position : center;
+	padding-left:60px;
+	color:#fff;
+	text-decoration:none;
+	
+}
+.mla{
+	
+	font-size:18px;
+	position : center;
+	padding-left:60px;
+	color:#FF0000;
+
+	
+}
+.ml{
+	font-size:25px;
+	color:#FF4500;
+}
+.remo{
+	padding-top:50px;
+	padding-left:60px;
+}
+.ga{
+	font-size:30px;
+	padding-left:60px;
+	padding-top:50px;
+	position:center;
+	
+}
+.high{
+	background-size : cover;
+	backgroung-repeat : no;
+	height : 100vh;
+}
